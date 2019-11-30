@@ -1,4 +1,7 @@
 # Convnet_cat_vs_dog
+
+(This code was not made by me! I grabbed it from here: https://github.com/jainanchit51/datascience.git and made some edits)
+
 Proving that my teacher is a cat using a AI!
 
 To run, install tensorflow and keras using python's package manager:
